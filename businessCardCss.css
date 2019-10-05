@@ -1,0 +1,50 @@
+.cardFrame{
+    margin-top: 50px;
+    height: 600px;
+    width: 1050px;
+    border-style: inset;
+    border-width: 5px;
+    border-color: gray;
+    background-repeat: no-repeat;
+}
+.name{
+    position: relative;
+    margin-top: -200px;
+    margin-left: 450px;
+    font-family: "Trebuchet MS";
+    font-style: oblique;
+    font-size: 60px;
+}
+.links{
+    font-family: "Trebuchet MS";
+    font-size: 40px;
+}
+.title{
+    position: relative;
+    margin-top: -40px;
+    font-family: "Trebuchet MS";
+    font-size: 50px;
+}
+.linksBundle{
+    margin-left: 30px;
+    position: relative;
+    margin-top: 75px;
+    font-family: "Trebuchet MS";
+    font-style: oblique;
+    font-size: 60px;
+}
+#qrsize{
+    width: 251px;
+    height: auto;
+}
+.linkedinQR{
+    width: 250px;
+    height: 250px;
+}
+.githubQR{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    margin-left: 790px;
+    margin-top: -140px;
+}
